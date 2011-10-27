@@ -1,0 +1,60 @@
+An3
+<li>buciuman bogdan-gheorghe -- 10
+<li>circiumariu maria-iuliana -- 9
+<li>danciu catalin valentin -- 5
+<li>dicu georgia -- 7
+<li>enache adela  -- 10
+<li>faur ioana zeni -- 7
+<li>handra liliana nicoleta -- 10
+<li>hrecin lavinia -- 9
+<li>hrisca simona-diana -- 5
+<li>ionescu daniel-andrei -- 10
+<li>janga florina-claudia -- 10
+<li>kobza adela-sorina -- 6
+<li>lonea alina madalina -- 9
+<li>lupea ioana  -- 10
+<li>magurean casian -- 6
+<li>marcu dan-claudiu -- 6
+<li>mica valentin catalin -- 8
+<li>motorga liliana angela -- 9
+<li>muntean iulian-artenie -- 10
+<li>nicolicioiu camelia simona -- 10
+<li>papadineti sergiu mihai -- 8
+<li>petcu adrian-marius -- 10
+<li>posa maria cristina -- 10
+<li>prodan claudiu sebastian -- 8
+<li>sipos anamaria -- 8
+<li>sirbu marius-cosmin -- 5
+<li>tismanar gabriela-raluca -- 10
+<li>vacarescu cella-flavia -- 10
+<li>valkai nemeth bela ors -- 8
+<li>firoiu dragos -- 7
+<li>spineanu radu -- 10
+<li>toma mihai -- 8
+An2
+<li>Balint Emilia - 5</li>
+<li>Blanaru Adriana - 4</li>
+<li>Buzila Bogdan - 4</li>
+<li>Chircu Bogdan - 4</li>
+<li>Cioroianu Alexandru - 4</li>
+<li>Cismaru Florina - 4</li>
+<li>Crisan Catalin - 4</li>
+<li>Draghescu Alin - 4</li>
+<li>Dragota Andrei - 4</li>
+<li>Floare Adrian Nicolae - 4</li>
+<li>Grigore Alexandra - 4</li>
+<li>Groza Alexandru - 4</li>
+<li>Hora Daniel - 5</li>
+<li>Jurj Alexandru - 4</li>
+<li>Kovacs Andrei - 7</li>
+<li>Laurentiu Vlad - 4</li>
+<li>Leucuta Flavia  - 4</li>
+<li>Matcau Daniel - 7</li>
+<li>Niculaita Cristina - 4</li>
+<li>Pilica Valentin - 4</li>
+<li>Robb Stefan - 4</li>
+<li>Sabau Andreea - 5</li>
+<li>Stirbu Andreea Daniela - 4</li>
+<li>Tuca Paul - 4</li>
+<li>Udovita Adela - 4</li>
+<li>Vlad Laurentiu - 4</li>
